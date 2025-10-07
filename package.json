@@ -37,7 +37,7 @@
         "eslint-plugin-simple-header": "^1.0.2",
         "fflate": "^0.7.4",
         "nanoid": "^4.0.2",
-        "virtual-merge": "^1.0.1"
+        "virtual-merge": "^1.0.2"
     },
     "devDependencies": {
         "@types/diff": "^5.0.3",
